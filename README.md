@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a webscraper for technology opportunities**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Golang, C++ Concurrent Programming,  **
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **React, Node.js, Firebase... or anything**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: **Minsky and Papert show that a perceptron can't solve the XOR problem. This contributed to the first AI winter, resulting in funding cuts for neural networks.**
 
  </div>
  
